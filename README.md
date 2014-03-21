@@ -4,7 +4,8 @@ This was an assignment for my [USU](http://usu.edu) CS course *Game Development*
 a class to teach computer science principles in a video game development context.
 Topics such as software architecture, algorithms and data structures, networking, 
 multithreading, and 2D and 3D graphics were explored by building full PC games in 
-solo and team projects.
+solo and team projects. This particular assignment was a full 2D maze game solo
+project.
 
 All code is in C# using Microsoft's XNA platform. This is no longer in active 
 development by Microsoft because of all the new shiny Metro stuff they're doing, 
