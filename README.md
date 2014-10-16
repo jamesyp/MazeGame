@@ -23,7 +23,7 @@ in getting it set up, I'd love to help you if you run into problems.
 
 The menus should be fairly self-explanatory, allowing you to start a game with a specified maze size. You can also toggle an enemy "ghost" on and off that will kill you if you touch it.
 
-The player begins in the top-left square of a [randomly generated maze](http://en.wikipedia.org/wiki/Prim's_algorithm), and the goal is to get to the bottom-left. Points are awarded based on how closely you follow the [shortest path](http://en.wikipedia.org/wiki/Depth-first_search). 
+The player begins in the top-left square of a [randomly generated maze](http://en.wikipedia.org/wiki/Prim's_algorithm), and the goal is to get to the bottom-right. Points are awarded based on how closely you follow the [shortest path](http://en.wikipedia.org/wiki/Depth-first_search). 
 
 ### Controls
 -   Arrow keys or WASD to move
